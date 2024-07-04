@@ -1,0 +1,43 @@
+[
+    {
+      "id": 1,
+      "title": "Understanding React Hooks",
+      "content": "React Hooks are functions that let you use state and other React features without writing a class. They were introduced in React 16.8 and have become an essential part of modern React development.",
+      "author": "John Doe",
+      "date": "2024-07-01",
+      "tags": ["React", "Hooks", "JavaScript"]
+    },
+    {
+      "id": 2,
+      "title": "A Guide to CSS Flexbox",
+      "content": "Flexbox is a layout model in CSS that allows you to design complex layouts with ease. It simplifies the process of creating flexible and responsive design structures. This guide will walk you through the basics of Flexbox.",
+      "author": "Jane Smith",
+      "date": "2024-07-02",
+      "tags": ["CSS", "Flexbox", "Web Design"]
+    },
+    {
+      "id": 3,
+      "title": "HTML5 Semantic Elements",
+      "content": "HTML5 introduced several new semantic elements that help to define the different parts of a web page. These elements, such as <article>, <section>, and <header>, provide meaning to the content and improve SEO.",
+      "author": "Alice Johnson",
+      "date": "2024-07-03",
+      "tags": ["HTML5", "Semantic Elements", "SEO"]
+    },
+    {
+      "id": 4,
+      "title": "Getting Started with Node.js",
+      "content": "Node.js is a powerful JavaScript runtime built on Chrome's V8 engine. It allows developers to use JavaScript to write server-side code. This article covers the basics of setting up a Node.js environment and writing your first server.",
+      "author": "Bob Brown",
+      "date": "2024-07-04",
+      "tags": ["Node.js", "JavaScript", "Server-side"]
+    },
+    {
+      "id": 5,
+      "title": "Introduction to TypeScript",
+      "content": "TypeScript is a strongly typed programming language that builds on JavaScript, giving you better tooling at any scale. It is developed and maintained by Microsoft and is becoming increasingly popular in large codebases.",
+      "author": "Carol White",
+      "date": "2024-07-05",
+      "tags": ["TypeScript", "JavaScript", "Programming"]
+    }
+  ]
+  
